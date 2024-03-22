@@ -4,7 +4,7 @@ Practicing CSS Grid
 Layout construction, responsiveness and analysis of ideal contexts for using the Grid
 
 
-![]WaveCast-projeto-base/src/imagens/Imagens/dev-sem-fronteiras/mostra.jpg
+![](https://github.com/carolinerinaldo/WaveCast/blob/main/WaveCast-projeto-base/src/imagens/Imagens/dev-sem-fronteiras/mostra.jpg)
 
 ## Used tools:
 
